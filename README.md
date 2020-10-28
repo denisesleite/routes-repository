@@ -2,7 +2,7 @@
 
 Trabalho desenvolvido no Bootcamp GoStack da Rocketseat, tem como objetivo criar rotas no backend com node.js utilizando o framework express para construção de API's. 
 
-Para executar este desafio você deve: 
+Para executar você deve: 
 
 #### Clonar este repositório
 
@@ -16,7 +16,7 @@ $ yarn
 
 $ yarn dev
 
-<br/><br/>
+<br/>
 
 Para testar as rotas é fundamental usar as ferramentas Insomnia ou Postman.
 
