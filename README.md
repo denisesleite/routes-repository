@@ -1,18 +1,16 @@
 ## Criação de rotas com Node.js e Express
 
-Trabalho desenvolvido no Bootcamp GoStack da Rocketseat, tem como objetivo criar rotas no backend com node.js utilizando o framework express para construção de API's. 
+Trabalho desenvolvido no Bootcamp GoStack da Rocketseat, tem como objetivo criar rotas no backend com node.js com os métodos HTTP(get, post, put, delete) utilizando o framework express para construção de API's. 
 
 Para executar você deve: 
 
-#### Clonar este repositório
+<strong>Clonar este repositório</strong><br/>
 $ git clone https://github.com/denisesleite/routes-repository.git
 
-#### Instalar suas dependências
+<strong>Instalar suas dependências</strong><br/>
 $ yarn
 
-#### Executar
+<strong>Executar</strong><br/>
 $ yarn dev
-
-<br/>
 
 Para testar as rotas é fundamental usar as ferramentas Insomnia ou Postman.
