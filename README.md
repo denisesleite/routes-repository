@@ -1,4 +1,4 @@
-## Criação de rotas com Node.js e express
+## Criação de rotas com Node.js e Express
 
 Trabalho desenvolvido no Bootcamp GoStack da Rocketseat, tem como objetivo criar rotas no backend com node.js utilizando o framework express para construção de API's. 
 
